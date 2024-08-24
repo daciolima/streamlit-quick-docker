@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+SQLAlchemy
+psycopg-binary
